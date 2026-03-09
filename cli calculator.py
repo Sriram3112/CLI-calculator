@@ -23,11 +23,3 @@ elif op == "/":
 
 else:
     print("Invalid operator")
-[DEBUG ON]
->>> 
-[DEBUG OFF]
->>> 
-[DEBUG ON]
->>> 
-[DEBUG OFF]
->>> 
